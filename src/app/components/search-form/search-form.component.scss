@@ -1,0 +1,22 @@
+.form-cont {
+  .input-group-text {
+    background-color: #bcc8d1;
+  }
+
+  .btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #bcc8d1;
+    border-color: #6c757d;
+  }
+
+  .btn-outline-secondary:focus, .btn-outline-secondary.focus {
+    box-shadow: none;
+  }
+
+  .icon-search {
+    img {
+      width: 20px;
+      height: 20px;
+    }
+  }
+}
